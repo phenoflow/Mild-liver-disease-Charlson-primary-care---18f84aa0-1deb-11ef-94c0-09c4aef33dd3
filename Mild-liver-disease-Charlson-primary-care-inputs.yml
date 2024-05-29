@@ -1,0 +1,96 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/chronic-mild-liver-disease-charlson-primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-hepatitis---primary.py
+inputModule4:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-atrophy---primary.py
+inputModule5:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-biliary---primary.py
+inputModule6:
+  class: File
+  path: python/macronodular-mild-liver-disease-charlson-primary-care---primary.py
+inputModule7:
+  class: File
+  path: python/aggressive-mild-liver-disease-charlson-primary-care---primary.py
+inputModule8:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-cirrhosis---primary.py
+inputModule9:
+  class: File
+  path: python/nonalcoholic-mild-liver-disease-charlson-primary-care---primary.py
+inputModule10:
+  class: File
+  path: python/viral-mild-liver-disease-charlson-primary-care---primary.py
+inputModule11:
+  class: File
+  path: python/active-mild-liver-disease-charlson-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/portal-mild-liver-disease-charlson-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/noninfective-mild-liver-disease-charlson-primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/other-mild-liver-disease-charlson-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-classified---primary.py
+inputModule16:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-sclerosing---primary.py
+inputModule17:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-unspecified---primary.py
+inputModule18:
+  class: File
+  path: python/recurrent-mild-liver-disease-charlson-primary-care---primary.py
+inputModule19:
+  class: File
+  path: python/toxic-mild-liver-disease-charlson-primary-care---primary.py
+inputModule20:
+  class: File
+  path: python/hepatic-mild-liver-disease-charlson-primary-care---primary.py
+inputModule21:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-autoimmune---primary.py
+inputModule22:
+  class: File
+  path: python/deltaagent-mild-liver-disease-charlson-primary-care---primary.py
+inputModule23:
+  class: File
+  path: python/lobular-mild-liver-disease-charlson-primary-care---primary.py
+inputModule24:
+  class: File
+  path: python/secondary-mild-liver-disease-charlson-primary-care---primary.py
+inputModule25:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-cholangitis---primary.py
+inputModule26:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-subacute---primary.py
+inputModule27:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-genotype---primary.py
+inputModule28:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-fibrosis---primary.py
+inputModule29:
+  class: File
+  path: python/persistent-mild-liver-disease-charlson-primary-care---primary.py
+inputModule30:
+  class: File
+  path: python/mild-liver-disease-charlson-primary-care-laennec---primary.py
+inputModule31:
+  class: File
+  path: python/output-cases.py
